@@ -1,5 +1,7 @@
 # LinkedIn India Job Market Analysis
 
+![Priject banner](Image/Report_Home.png)
+
 ## Project Overview
 
 The LinkedIn India Job Market Analysis project explores hiring trends, applicant behavior, industry demand, and geographical opportunities across India using Power BI.

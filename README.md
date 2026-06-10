@@ -1,6 +1,6 @@
 # LinkedIn India Job Market Analysis
 
-![Priject banner](Image/Report_Home.png)
+![Project banner](Image/Report_Home.png)
 
 ## Project Overview
 

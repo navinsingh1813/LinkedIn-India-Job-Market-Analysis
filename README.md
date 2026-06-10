@@ -50,6 +50,8 @@ This project aims to answer key business questions such as:
 
 ### 1. Company & Sector Analysis
 
+[Company & Sector](https://github.com/navinsingh1813/LinkedIn-India-Job-Market-Analysis/blob/main/Images/Company_Sector_Analysis.png)
+
 Analyzes:
 
 * Top hiring companies
@@ -59,6 +61,8 @@ Analyzes:
 
 ### 2. Geographical & Work Type Analysis
 
+[Geographical & WorkType](https://github.com/navinsingh1813/LinkedIn-India-Job-Market-Analysis/blob/main/Images/Geographical_WorkType.png)
+
 Analyzes:
 
 * State-wise job distribution
@@ -66,6 +70,8 @@ Analyzes:
 * Work type trends
 
 ### 3. Job Role & Applicant Analysis
+
+[JobRole & Applicants](https://github.com/navinsingh1813/LinkedIn-India-Job-Market-Analysis/blob/main/Images/JobRole_Applications.png)
 
 Analyzes:
 

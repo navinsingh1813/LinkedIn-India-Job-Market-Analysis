@@ -1,6 +1,6 @@
 # LinkedIn India Job Market Analysis
 
-![Project banner](Image/Report_Home.png)
+![Project banner](https://github.com/navinsingh1813/LinkedIn-India-Job-Market-Analysis/blob/main/Images/Report_Home.png)
 
 ## Project Overview
 
